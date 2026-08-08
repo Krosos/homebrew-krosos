@@ -3,8 +3,8 @@
 # (github.com/Krosos/homebrew-krosos, Casks/krosos.rb) on each release,
 # substituting the `version` and `sha256` lines. Edit here, not in the tap.
 cask "krosos" do
-  version "2026.08.07.1"
-  sha256 "a24c81fa3ba5ba8db7f21d039cfacb656ac33a6e156fc3f37196145f659e4f51"
+  version "2026.08.08"
+  sha256 "433afc0eb510b13b3fac5a6d20dbc505b57b53b39a45032da22e0acc5ae32800"
 
   url "https://github.com/Krosos/homebrew-krosos/releases/download/v#{version}/Krosos-#{version}-macos.zip"
   name "Krosos"
